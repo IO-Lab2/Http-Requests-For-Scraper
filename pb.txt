@@ -1,4 +1,4 @@
-Informacje o żadaniach HTTP do strony Baza Wiedzy Politechniki Białostockiej:
+Informacje o żądaniach HTTP do strony Baza Wiedzy Politechniki Białostockiej:
 
 Metoda:	"POST"	
 givenName:	"Paweł"	
@@ -12,5 +12,6 @@ Cytowania WoS:	"2"
 SNIP:	"3,521"	
 CiteScore:	"21,1"	
 MNiSW:	"587"	
-CID:	" https://bazawiedzy.pb.edu.pl/info.seam?cid=66937" 
+CID:	" https://bazawiedzy.pb.edu.pl/info.seam?cid=66937" - ADRES ŻĄDANIA
+
 Strona:	"https://bazawiedzy.pb.edu.pl/info/author/BUT1ca0fd47e7894a6cbd532677b893cf60?r=author&tab=&title=Profil%2Bosoby%2B%25E2%2580%2593%2BPawe%25C5%2582%2BKondzior%2B%25E2%2580%2593%2BPolitechnika%2BBia%25C5%2582ostocka&lang=pl"
