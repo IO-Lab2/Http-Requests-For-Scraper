@@ -1,3 +1,5 @@
+Informacje o żadaniach HTTP do strony Baza Wiedzy Politechniki Białostockiej:
+
 Metoda:	"POST"	
 givenName:	"Paweł"	
 familyName:	"Kondzior"	
